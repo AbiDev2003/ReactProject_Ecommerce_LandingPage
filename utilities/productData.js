@@ -2,7 +2,7 @@ export default [
     { 
         cardTitle: "You recently bought", 
         itemName: "Pure Bean Coffie", 
-        src: "/images/coffie.jpg", 
+        src: "../images/coffie.jpg", 
         alt: "A cup of coffie with beans", 
         price: 20, 
         ratings: "⭐⭐⭐⭐⭐", 
@@ -11,7 +11,7 @@ export default [
     {
         cardTitle: "Selected for you", 
         itemName: "Tornado clean", 
-        src: "/images/vaccum.jpg", 
+        src: "../images/vaccum.jpg", 
         alt: "A sleak vaccum cleaner", 
         price: 340, 
         ratings: "⭐⭐⭐⭐", 
@@ -20,7 +20,7 @@ export default [
     { 
         cardTitle: "Seasonal sale", 
         itemName: "Retro lamp", 
-        src: "/images/lamp.jpg", 
+        src: "../images/lamp.jpg", 
         alt: "A retro lamp with colorful shade", 
         price: 85, 
         ratings: "⭐⭐⭐", 
@@ -30,7 +30,7 @@ export default [
     { 
         cardTitle: "Must have !", 
         itemName: "vortex soup dispenser", 
-        src: "/images/soup.jpg", 
+        src: "../images/soup.jpg", 
         alt: "A soup dispensing gadget", 
         price: 205, 
         ratings: "⭐⭐⭐⭐⭐", 
@@ -40,7 +40,7 @@ export default [
     {
         cardTitle: "Discounted one", 
         itemName: "hard disk", 
-        src: "/images/disk.jpg", 
+        src: "../images/disk.jpg", 
         alt: "A hard disk with good storage and durability", 
         price: 20, 
         ratings: "⭐⭐⭐⭐⭐", 
@@ -49,7 +49,7 @@ export default [
     { 
         cardTitle: "Must buy !", 
         itemName: "Sunglass", 
-        src: "/images/sunglass.jpg", 
+        src: "../images/sunglass.jpg", 
         alt: "A sunglass with great impact", 
         price: 100, 
         ratings: "⭐⭐", 
@@ -59,7 +59,7 @@ export default [
     {
         cardTitle: "Gotta add it", 
         itemName: "Trimmer", 
-        src: "/images/trimmer.jpg", 
+        src: "../images/trimmer.jpg", 
         alt: "A trimmer, smooth yet sharp", 
         price: 87, 
         ratings: "⭐⭐⭐", 
@@ -68,7 +68,7 @@ export default [
     {
         cardTitle: "Can't avoid it", 
         itemName: "Super Bike", 
-        src: "/images/bike.jpg", 
+        src: "../images/bike.jpg", 
         alt: "A bike, king of coolness", 
         price: 20, 
         ratings: "⭐", 
