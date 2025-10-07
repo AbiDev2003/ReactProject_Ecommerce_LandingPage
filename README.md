@@ -81,12 +81,6 @@ Your Name
 
 ## 🔗 Live Link
 - Website Link: [urbannex.com](https://react-project-ecommerce-landing-pag.vercel.app/)
-
-
-Your Name
-- GitHub: [@AbiDev2003](https://github.com/AbiDev2003)
-- LinkedIn: [Abinash Dash](https://linkedin.com/in/abinashDev)
-
 ---
 
 ⭐ Let's connect and grow together !
