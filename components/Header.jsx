@@ -146,7 +146,7 @@ export default function Header({ onNavigate, userName, location }) {
 
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
-        <div className="md:hidden bg-gray-600">
+        <div className="md:hidden bg-gray-600 absolute top-full left-0 w-full shadow-lg z-50 transition-all duration-300 ease-in-out">
           <div className="px-4 py-3 space-y-1">
             <a 
               href="#" 
