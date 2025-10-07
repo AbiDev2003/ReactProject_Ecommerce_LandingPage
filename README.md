@@ -75,7 +75,7 @@ graph TD
 
 ## 👤 Author
 
-Your Name
+Abinash Dash
 - GitHub: [@AbiDev2003](https://github.com/AbiDev2003)
 - LinkedIn: [Abinash Dash](https://linkedin.com/in/abinashDev)
 
